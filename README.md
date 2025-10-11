@@ -3,6 +3,9 @@
 ## 深度学习基础
 <strong><p>浅谈几种Normalization方法</p></strong>
 https://blog.csdn.net/TracelessLe/article/details/106593425
+
+
+##Torch方法论
 <strong><p>flashattention介绍</p></strong>
 https://pytorch.org/blog/flashattention-3/
 <strong><p>flashattention使用</p></strong>
