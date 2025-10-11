@@ -1,16 +1,17 @@
 # KnowledgeBase
 
 ## 深度学习基础
-<p>浅谈几种Normalization方法</p>
+<strong><p>浅谈几种Normalization方法</p></strong>
 https://blog.csdn.net/TracelessLe/article/details/106593425
-<p></p>flashattention介绍</p>
+<strong><p>flashattention介绍</p></strong>
 https://pytorch.org/blog/flashattention-3/
-<p>flashattention使用</p>
+<strong><p>flashattention使用</p></strong>
 https://blog.csdn.net/a772304419/article/details/150580287
-<p>AMP混合精度</p>
+<strong><p>AMP混合精度</p></strong>
 https://docs.pytorch.org/tutorials/recipes/recipes/amp_recipe.html
-<p>DDP分布式训练
-
-<p>Torch_Profiler检测方法以及tensorboard可视化方法</p>
+<strong><p>DDP分布式训练</p></strong>
+xxx
+<strong><p>Torch_Profiler检测方法以及tensorboard可视化方法</p></strong>
 https://docs.pytorch.org/docs/stable/profiler.html#module-torch.profiler
+
 https://github.com/pytorch/kineto/tree/main/tb_plugin
