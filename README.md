@@ -18,3 +18,5 @@ xxx
 https://docs.pytorch.org/docs/stable/profiler.html#module-torch.profiler
 
 https://github.com/pytorch/kineto/tree/main/tb_plugin
+<strong><p>梯度检查点技术</p></strong>
+可以以时间换空间，解决OOM问题。
